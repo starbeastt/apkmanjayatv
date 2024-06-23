@@ -1,26 +1,26 @@
 ==========================================LIVESTREAM EVENT==========================================
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE A
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming1.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE B
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming2.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE C
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming3.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE D
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming4.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE E
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming5.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE F
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE F
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming6.m3u8
 
