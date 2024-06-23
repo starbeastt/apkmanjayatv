@@ -1,14 +1,14 @@
 ==========================================LIVESTREAM EVENT==========================================
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",(A)LIVE STREAM EVENT
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming1.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",(A)LIVE STREAM EVENT 2
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming2.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",(A)LIVE STREAM EVENT 3
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming3.m3u8
 
