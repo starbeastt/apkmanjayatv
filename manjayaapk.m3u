@@ -12,6 +12,18 @@ https://tvnid.x10.mx/playlist/streaming2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming3.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://tvnid.x10.mx/playlist/streaming4.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://tvnid.x10.mx/playlist/streaming5.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/livestream-logo-95CD9EDCE4-seeklogo.com.png" group-title="LIVESTREAM",LIVE F
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://tvnid.x10.mx/playlist/streaming6.m3u8
+
 ==========================================NASIONAL==================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png" group-title="NASIONAL 🇮🇩",RCTI
