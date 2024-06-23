@@ -14,7 +14,7 @@ https://tvnid.x10.mx/playlist/streaming3.m3u8
 
 ==========================================NASIONAL==================================================
 
-#EXTINF:-1 tvg-id="RCTI" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL 🇮🇩",RCTI
+#EXTINF:-1 tvg-logo="https://photos.app.goo.gl/4Qp7DdZqETeA2H5a6" group-title="NASIONAL 🇮🇩",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
