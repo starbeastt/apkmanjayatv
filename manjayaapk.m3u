@@ -1,28 +1,28 @@
 ==========================================LIVESTREAM EVENT==========================================
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE A
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE B
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE C
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://tvnid.x10.mx/playlist/streaming3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE D
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://tvnid.x10.mx/playlist/streaming4.m3u8
+https://tvnid.x10.mx/playlist/streaming9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE E
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://tvnid.x10.mx/playlist/streaming5.m3u8
+https://tvnid.x10.mx/playlist/streaming15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE F
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/661/202/small_2x/3d-red-button-red-play-button-icon-live-stream-play-3d-png.png" group-title="LIVESTREAM",LIVE 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://tvnid.x10.mx/playlist/streaming6.m3u8
+https://tvnid.x10.mx/playlist/streaming23.m3u8
 
 ==========================================NASIONAL==================================================
 
@@ -197,7 +197,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://worker-little-bread-fe1e.aimiemah.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://tvnid-best.aimiemah.workers.dev/
 https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="MOVIES",TVN
